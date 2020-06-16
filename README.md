@@ -1,4 +1,4 @@
-# firstapp
+# Personal Expenses
 
 A new Flutter application.
 
